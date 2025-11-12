@@ -1,5 +1,5 @@
 🧩 Task Manager CLI (Node.js)
-Project ini adalah aplikasi Task Manager sederhana yang dijalankan lewat Command Line (Terminal) dan merupkana tugas minggu ke 9 Pemrograman Web. (nama reponya saya kira minggu ke 10 seharusnya ke 9)
+Project ini adalah aplikasi Task Manager sederhana yang dijalankan lewat Command Line (Terminal) dan merupkana tugas CLI Pemrograman Web. (nama reponya saya kira minggu ke 10 ternyata salah)
 Aplikasi ini dibuat untuk belajar dan membuktikan konsep pemrograman asinkron di Node.js menggunakan fitur bawaan seperti fs/promises, path, dan process.argv.
 
 🚀 Fitur Aplikasi
